@@ -10,6 +10,8 @@ The package contains a single node
       * Subscriber: "/odom", "/imu_data", and "/vo " 
       * Publisher: "/robot_pose_ekf/odom_combined"
 
+![alt text](Images/Output.png)
+
 ### Steps to launch the nodes
 #### Step1: Install the package
 ```sh
