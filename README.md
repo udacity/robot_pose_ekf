@@ -38,8 +38,16 @@ $ git clone https://github.com/udacity/robot_pose_ekf
 </launch>
 ```
 #### Step3: Build the package
+```
 $ cd /home/workspace/catkin_ws
+```
+```
 $ catkin_make
+```
+```
 $ source devel/setup.bash
+```
 #### Step4: Launch the node
+```
 $ roslaunch robot_pose_ekf robot_pose_ekf.launch
+```
